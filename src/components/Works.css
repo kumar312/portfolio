@@ -1,0 +1,8 @@
+.work{
+    flex-grow: 1;
+}
+
+.work-heading{
+    text-align: center;
+    margin-top: 100px;
+}
