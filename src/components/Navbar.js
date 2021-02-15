@@ -24,12 +24,6 @@ function Navbar() {
     <nav className="navbar">
       <div className="nav-wrapper">
         <div className="logo">
-          {/* <Link to="/">
-            <img
-              src="https://github.com/DwinaTech/public-images/blob/main/DwinaTech-brand.png?raw=true"
-              alt="brand"
-            />
-          </Link> */}
           <h1 className="heading">Kumar Saurabh</h1>
         </div>
         <div className="list-wrapper">
