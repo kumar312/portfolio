@@ -24,8 +24,6 @@ function Skills() {
           <div>
             <strong>Tools:</strong>
             <li>Eslint</li>
-            <li>Webpack</li>
-            <li>Chrome Dev</li>
             <li>Git & Github</li>
           </div>
         </div>

@@ -3,6 +3,7 @@
 }
 
 .work-heading{
-    text-align: center;
-    margin-top: 100px;
+    /* text-align: center; */
+    margin-top: 40px;
+    display: block;
 }
